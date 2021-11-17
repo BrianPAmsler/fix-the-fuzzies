@@ -2,7 +2,6 @@ use crate::utils::Timer;
 use crate::Universe;
 use crate::{log, UniverseRenderer};
 
-use wasm_bindgen::prelude::*;
 use wasm_bindgen::JsCast;
 use web_sys::{HtmlCanvasElement, WebGlProgram, WebGlRenderingContext, WebGlShader};
 
